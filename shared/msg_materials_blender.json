@@ -1,0 +1,31 @@
+{
+  "id": "714716b56a52",
+  "timestamp": "2025-07-18T12:29:57.606518",
+  "source": "grasshopper",
+  "target": "blender",
+  "message_type": "materials",
+  "payload": {
+    "materials": {
+      "primary": {
+        "color": [
+          0.8,
+          0.2,
+          0.1
+        ],
+        "metallic": 0.0,
+        "roughness": 0.8
+      },
+      "secondary": {
+        "color": [
+          0.1,
+          0.1,
+          0.1
+        ],
+        "metallic": 0.2,
+        "roughness": 0.3
+      }
+    },
+    "material_system": "principled_bsdf"
+  },
+  "version": "1.0"
+}

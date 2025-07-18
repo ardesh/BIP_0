@@ -1,0 +1,21 @@
+{
+  "id": "dd5047458f54",
+  "timestamp": "2025-07-18T12:29:57.606518",
+  "source": "grasshopper",
+  "target": "blender",
+  "message_type": "parameters",
+  "payload": {
+    "parameters": {
+      "length": 100.0,
+      "width": 50.0,
+      "height": 30.0,
+      "radius": 12.0
+    },
+    "metadata": {
+      "export_time": "2025-07-18T12:29:57.606518",
+      "rhino_version": "8",
+      "definition_name": "product_model.gh"
+    }
+  },
+  "version": "1.0"
+}
