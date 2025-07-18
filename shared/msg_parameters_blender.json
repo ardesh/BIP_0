@@ -1,6 +1,6 @@
 {
-  "id": "22c7fd7f6e56",
-  "timestamp": "2025-07-18T12:38:56.012231",
+  "id": "036d4030de11",
+  "timestamp": "2025-07-18T12:38:59.683151",
   "source": "grasshopper",
   "target": "blender",
   "message_type": "parameters",
@@ -12,7 +12,7 @@
       "radius": 12.0
     },
     "metadata": {
-      "export_time": "2025-07-18T12:38:56.012231",
+      "export_time": "2025-07-18T12:38:59.683151",
       "rhino_version": "8",
       "definition_name": "product_model.gh"
     }
