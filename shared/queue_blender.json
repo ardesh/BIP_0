@@ -1,57 +1,5 @@
 [
   {
-    "id": "f7b2cbd6fdae",
-    "timestamp": "2025-07-18T12:44:04.417696",
-    "source": "grasshopper",
-    "target": "blender",
-    "message_type": "parameters",
-    "payload": {
-      "parameters": {
-        "length": 100.0,
-        "width": 50.0,
-        "height": 30.0,
-        "radius": 12.0
-      },
-      "metadata": {
-        "export_time": "2025-07-18T12:44:04.417696",
-        "rhino_version": "8",
-        "definition_name": "product_model.gh"
-      }
-    },
-    "version": "1.0"
-  },
-  {
-    "id": "442b178b23fd",
-    "timestamp": "2025-07-18T12:44:04.434933",
-    "source": "grasshopper",
-    "target": "blender",
-    "message_type": "materials",
-    "payload": {
-      "materials": {
-        "primary": {
-          "color": [
-            0.8,
-            0.2,
-            0.1
-          ],
-          "metallic": 0.0,
-          "roughness": 0.8
-        },
-        "secondary": {
-          "color": [
-            0.1,
-            0.1,
-            0.1
-          ],
-          "metallic": 0.2,
-          "roughness": 0.3
-        }
-      },
-      "material_system": "principled_bsdf"
-    },
-    "version": "1.0"
-  },
-  {
     "id": "f5ef18bcc83c",
     "timestamp": "2025-07-18T12:44:08.495174",
     "source": "grasshopper",
@@ -231,6 +179,58 @@
   {
     "id": "a6c06acd01fd",
     "timestamp": "2025-07-18T12:44:20.793272",
+    "source": "grasshopper",
+    "target": "blender",
+    "message_type": "materials",
+    "payload": {
+      "materials": {
+        "primary": {
+          "color": [
+            0.8,
+            0.2,
+            0.1
+          ],
+          "metallic": 0.0,
+          "roughness": 0.8
+        },
+        "secondary": {
+          "color": [
+            0.1,
+            0.1,
+            0.1
+          ],
+          "metallic": 0.2,
+          "roughness": 0.3
+        }
+      },
+      "material_system": "principled_bsdf"
+    },
+    "version": "1.0"
+  },
+  {
+    "id": "592b7d2fa2ee",
+    "timestamp": "2025-07-18T12:44:24.841799",
+    "source": "grasshopper",
+    "target": "blender",
+    "message_type": "parameters",
+    "payload": {
+      "parameters": {
+        "length": 100.0,
+        "width": 50.0,
+        "height": 30.0,
+        "radius": 12.0
+      },
+      "metadata": {
+        "export_time": "2025-07-18T12:44:24.841799",
+        "rhino_version": "8",
+        "definition_name": "product_model.gh"
+      }
+    },
+    "version": "1.0"
+  },
+  {
+    "id": "da6ac5668ea4",
+    "timestamp": "2025-07-18T12:44:24.858654",
     "source": "grasshopper",
     "target": "blender",
     "message_type": "materials",
